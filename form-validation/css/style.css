@@ -1,0 +1,26 @@
+form {
+    background: rgb(33, 151, 254);
+    width: 50%;
+    margin: 100px auto;
+    padding: 50px;
+}
+.form-control{
+    border-radius: unset;
+}
+input#exampleInputEmail1 {
+    padding: 12px;
+}
+
+input#exampleInputPassword1 {
+    padding: 12px;
+}
+
+button.btn.btn-primary {
+    padding: 7px 35px;
+    border-radius: 2px;
+    background: crimson;
+    letter-spacing: 1px;
+}
+.form-check-input[type=checkbox] {
+    border-radius: 0px;
+}
